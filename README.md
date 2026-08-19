@@ -6,4 +6,4 @@ Open `index.html` in your browser, drag & drop a markdown file (.md), or select 
 
 ## License
 
-MIT
+[MIT](LICENSE)
